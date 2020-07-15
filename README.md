@@ -1,7 +1,7 @@
 # Parallel_and_Approximate_VTP_source_code
 
-The source code of our paper:
-Jie Du, Ying He, Zheng Fang, Wenlong Meng, Shiqing Xin. On Vertex-oriented Triangle Propagation Algorithm: Parallelization and Approximation. Submitted to Computer-Aided Design. 2020
+The source code is a reference implementation of the following paper:
+Jie Du, Ying He, Zheng Fang, Wenlong Meng, Shiqing Xin. On Vertex-oriented Triangle Propagation Algorithm: Parallelization and Approximation. Under review. 2020.
 
 ## Usage:
 -alg [algorithmIndex]: the index of algorithm, 0: VTP, 1: Parallel-VTP (PVTP), 2: Approximate-VTP (AVTP), 3: Parallel Approximate-VTP (PAVTP).
@@ -36,7 +36,7 @@ Our parallel implementation utilizes the tbb library "tbb2019_20190605oss".
 
 Please cite this paper if you use this code:
 ```
-Jie Du, Ying He, Zheng Fang, Wenlong Meng, Shiqing Xin. On Vertex-oriented Triangle Propagation Algorithm: Parallelization and Approximation. Submitted to Computer-Aided Design. 2020
+Jie Du, Ying He, Zheng Fang, Wenlong Meng, Shiqing Xin. On Vertex-oriented Triangle Propagation Algorithm: Parallelization and Approximation. Under review. 2020.
 ```
 
 
