@@ -51,7 +51,7 @@ Our parallel implementation utilizes the tbb library "tbb2019_20190605oss".
 
 Please cite this paper if you use this code:
 ```
-Jie Du, Ying He, Zheng Fang, Wenlong Meng, Shiqing Xin. On Vertex-oriented Triangle Propagation Algorithm: Parallelization and Approximation. Under review. 2020.
+Jie Du, Ying He, Zheng Fang, Wenlong Meng, Shiqing Xin. On Vertex-oriented Triangle Propagation Algorithm: Parallelization and Approximation. Computer-Aided Design, accepted. 2020.
 ```
 
 
